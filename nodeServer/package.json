@@ -1,14 +1,14 @@
 {
   "name": "nodeserver",
   "version": "1.0.0",
-  "description": "A node.js Server for our ChatApp",
+  "description": "A node.js server for our ChatApp",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Loki2442",
+  "author": "Loki",
   "license": "ISC",
   "dependencies": {
-    "socket.io": "^4.1.3"
+    "socket.io": "^2.3.0"
   }
 }
